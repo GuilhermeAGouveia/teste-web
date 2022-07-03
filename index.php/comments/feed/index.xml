@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre Guilherme Augusto Gouveia	</title>
-	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Sat, 25 Jun 2022 11:47:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>/index.php/2022/06/25/ola-mundo/#comment-1</link>
+		<link>./../../2022/06/25/ola-mundo/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Sat, 25 Jun 2022 11:47:57 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Oi, isto é um comentário.
 Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
